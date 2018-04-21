@@ -44,3 +44,6 @@ TagManager:
   - name: Player
     uniqueID: 50199897
     locked: 0
+  - name: Dog
+    uniqueID: 487122177
+    locked: 0
