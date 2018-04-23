@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 6ee909c1338e3ff41ba513c364b9c630
-timeCreated: 1524321999
+timeCreated: 1524398617
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -192,12 +192,12 @@ TextureImporter:
       name: Spritesheet_5
       rect:
         serializedVersion: 2
-        x: 713
-        y: 479
-        width: 228
-        height: 153
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 706.7572
+        y: 474
+        width: 239
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5031079, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -247,6 +247,6 @@ TextureImporter:
     outline: []
     physicsShape: []
   spritePackingTag: 
-  userData: 99897950895703
+  userData: 99902984285122
   assetBundleName: 
   assetBundleVariant: 
